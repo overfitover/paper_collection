@@ -4,4 +4,4 @@
 
 ## object detection 论文收集与分类
 [https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html](源)
-[https://blog.csdn.net/hw5226349/article/details/81906882](转)
+[转](https://blog.csdn.net/hw5226349/article/details/81906882)
